@@ -1,0 +1,1 @@
+{"name":"the-kutting-edge","private":true,"version":"1.0.0","scripts":{"build":"node build.mjs","deploy":"npx wrangler deploy"},"engines":{"node":">=20"}}
