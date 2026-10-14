@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="342" viewBox="0 0 760 342" role="img" aria-labelledby="title desc">
+<title id="title">The Kutting Edge</title><desc id="desc">Recreated stacked lettering with red shading, ivory outlines and black edging. Transparent background; all lettering is vector paths.</desc>
+<defs><linearGradient id="red" x1="0%" y1="0%" x2="0%" y2="100%"><stop offset="0" stop-color="#68161a"/><stop offset="0.24" stop-color="#8d161d"/><stop offset="0.51" stop-color="#c31c24"/><stop offset="0.7" stop-color="#a71821"/><stop offset="1" stop-color="#271a1c"/></linearGradient><g id="letters" fill-rule="evenodd"><path d="M14 0H113L97 24H69V100H43V24H0Z" transform="translate(312.800 18) scale(0.4)"/>
+<path d="M0 0H25V37H75V0H100V100H75V62H25V100H0Z" transform="translate(360.000 18) scale(0.4)"/>
+<path d="M0 0H112L96 24H26V39H104L89 61H26V77H113L97 100H0Z" transform="translate(402.000 18) scale(0.4)"/>
+<path d="M0 0H25V39L68 0H102L47 49L102 100H68L25 61V100H0Z" transform="translate(30.000 85) scale(1)"/>
+<path d="M0 0H25V64C25 74 34 79 50 79S76 74 76 64V0H101V66C101 89 82 100 50 100S0 89 0 66Z" transform="translate(136.000 85) scale(1)"/>
+<path d="M14 0H113L97 24H69V100H43V24H0Z" transform="translate(241.000 85) scale(1)"/>
+<path d="M14 0H113L97 24H69V100H43V24H0Z" transform="translate(358.000 85) scale(1)"/>
+<path d="M0 0H27V100H0Z" transform="translate(475.000 85) scale(1)"/>
+<path d="M0 100V5Q0 0 7 0H21Q25 0 31 6L81 66V0H107V95Q107 100 100 100H87Q82 100 77 94L26 34V100Z" transform="translate(506.000 85) scale(1)"/>
+<path d="M111 0L95 24H55C37 24 26 34 26 50S37 77 55 77H87V63H57L72 41H113V100H55C22 100 0 80 0 50S22 0 55 0Z" transform="translate(617.000 85) scale(1)"/>
+<path d="M0 0H112L96 24H26V39H104L89 61H26V77H113L97 100H0Z" transform="translate(128.900 215) scale(1.08)"/>
+<path d="M14 0H54C91 0 114 19 114 50S91 100 54 100H0V40H26V77H53C74 77 88 67 88 50S74 24 53 24H0ZM26 40H52C61 40 65 44 65 50S61 61 52 61H26Z" transform="translate(255.260 215) scale(1.08)"/>
+<path d="M111 0L95 24H55C37 24 26 34 26 50S37 77 55 77H87V63H57L72 41H113V100H55C22 100 0 80 0 50S22 0 55 0Z" transform="translate(382.700 215) scale(1.08)"/>
+<path d="M0 0H112L96 24H26V39H104L89 61H26V77H113L97 100H0Z" transform="translate(509.060 215) scale(1.08)"/></g></defs>
+<use href="#letters" fill="none" stroke="#121813" stroke-width="23" stroke-linejoin="round"/>
+<use href="#letters" fill="none" stroke="#e6e8cd" stroke-width="17" stroke-linejoin="round"/>
+<use href="#letters" fill="url(#red)" stroke="#342829" stroke-width="3" stroke-linejoin="round"/>
+</svg>
